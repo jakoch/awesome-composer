@@ -71,6 +71,11 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 - [PackageVersions](https://github.com/Ocramius/PackageVersions)
   - This utility provides very quick and easy access to installed composer dependency versions.
 
+## Tools
+
+- [Composer-Yaml](https://github.com/igorw/composer-yaml)
+  - This tool converts composer.yml to composer.json.
+
 ## Scripts
 
 - [ParameterHandler](https://github.com/Incenteev/ParameterHandler)
