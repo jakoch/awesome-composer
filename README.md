@@ -58,6 +58,7 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin)
   - This composer plugin allows you to share your selected packages between your projects by creating symlinks.
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker)
+  - This tool forces the Composer to load some packages from different directories (instead of loading them from /vendor).
 - [Prestissimo](https://github.com/hirak/prestissimo)
   - Parallel Downloader using phpext_curl
 - [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch)
