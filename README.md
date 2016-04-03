@@ -75,6 +75,8 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 
 - [Composer-Yaml](https://github.com/igorw/composer-yaml)
   - This tool converts composer.yml to composer.json.
+- [Studio](https://github.com/franzliedke/studio)
+  - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 
 ## Scripts
 
