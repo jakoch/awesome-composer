@@ -1,4 +1,4 @@
-## awesome-composer [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer)
+## awesome-composer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer)
 
 A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 
@@ -41,7 +41,7 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 - [Composer-Composition](https://github.com/bamarni/composition)
 - [Composer-Suggest](https://github.com/nfreear/composer-suggest)
   - A Composer plugin to install a custom group of suggested packages, based on keyword patterns.
-- [Climb](https://github.com/vinkla/climb)
+- [Climb](https://github.com/deprecat/climb)
   -  Climb is a "Composer version manager tool" inspired by npm-check-updates. It shows the outdates package version and indicates "upgrades" to latest versions.
 - [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check)
   - The Composer Plugin called "composer-versions-check" shows outdated packages from last major versions after using the update command. (Showing "Latest is vX.Y.Z")
