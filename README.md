@@ -76,6 +76,8 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Tools
 
+- [Composer SemVer Checker](https://semver.mwl.be)
+  - This tool is a sematnic version check for Packagist. It helps to identify constraint to version resolution issues.
 - [Composer-Yaml](https://github.com/igorw/composer-yaml)
   - This tool converts composer.yml to composer.json.
 - [Studio](https://github.com/franzliedke/studio)
@@ -112,7 +114,6 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 ## Proxies
 
 - [ToranProxy](https://toranproxy.com/) - ToranProxy acts as a proxy server for Packagist and GitHub
-
 
 ---
 
