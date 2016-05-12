@@ -71,6 +71,8 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
   - This library allows you to build a dependency graph for an installed composer project.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions)
   - This utility provides very quick and easy access to installed composer dependency versions.
+- [Composer Locator](https://github.com/mindplay-dk/composer-locator)
+  - This Composer plugin provides a means of locating the installation path for a given Composer package name.  
 
 ## Tools
 
