@@ -32,63 +32,38 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Plugins
 
-- [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md)
-  - This offical documentation is good starting point, when writing a Composer plugin.
-- [Composer-Asset-Plugin](https://github.com/francoispluchino/composer-asset-plugin)
-  - A npm/Bower Dependencies Manager for Composer.
-- [Composer-AWS](https://github.com/naderman/composer-aws)
-  - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
-- [Composer-Composition](https://github.com/bamarni/composition)
-- [Composer-Suggest](https://github.com/nfreear/composer-suggest)
-  - A Composer plugin to install a custom group of suggested packages, based on keyword patterns.
-- [Climb](https://github.com/deprecat/climb)
-  -  Climb is a "Composer version manager tool" inspired by npm-check-updates. It shows the outdates package version and indicates "upgrades" to latest versions.
-- [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check)
-  - The Composer Plugin called "composer-versions-check" shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
-- [Composer-Changelogs](https://github.com/pyrech/composer-changelogs)
-  - It provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
-- [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin)
-  - Merges multiple `composer.json` files at Composer runtime.
-- [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin)
-  - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.
-- [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin)
-  - Remove tests & documentation folders from the vendor dir.
-- [Composer-Cleaner](https://github.com/dg/composer-cleaner)
-  - The tool removes unnecessary files and directories from the vendor directory.
-- [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin)
-  - Allows you to share your selected packages between your projects by creating symlinks.
-- [Composer-Symlinker](https://github.com/dg/composer-symlinker)
-  - Enables you to load some packages from different directories (instead of loading them from /vendor).
-- [Prestissimo](https://github.com/hirak/prestissimo)
-  - A parallel downloader using `phpext_curl`.
-- [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch)
-  - Parallel Downloader using external download tools: Aria2.
-- [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin)
-  - The plugin use phpext_curl for downloading packages.
-- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer)
-  - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder).
-- [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer)
-  - Allows you to build a dependency graph for an installed composer project.
-- [PackageVersions](https://github.com/Ocramius/PackageVersions)
-  - Provides a very quick and easy access to installed composer dependency versions.
-- [Composer Locator](https://github.com/mindplay-dk/composer-locator)
-  - Provides a means of locating the installation path for a given Composer package name.  
+- [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md) - This offical documentation is good starting point, when writing a Composer plugin.
+- [Composer-Asset-Plugin](https://github.com/francoispluchino/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
+- [Composer-AWS](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
+- [Composer-Composition](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
+- [Composer-Suggest](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns.
+- [Climb](https://github.com/deprecat/climb) - Climb is a "Composer version manager tool" inspired by `npm-check-updates`. It shows the outdates package version and indicates "upgrades" to latest versions.
+- [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
+- [Composer-Changelogs](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
+- [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
+- [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin) - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.
+- [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
+- [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
+- [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share your selected packages between your projects by creating symlinks.
+- [Composer-Symlinker](https://github.com/dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor).
+- [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
+- [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
+- [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
+- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder).
+- [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
+- [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
+- [Composer Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.  
 
 ## Tools
 
-- [Composer SemVer Checker](https://semver.mwl.be)
-  - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
-- [Composer-Yaml](https://github.com/igorw/composer-yaml)
-  - This tool converts composer.yml to composer.json.
-- [Studio](https://github.com/franzliedke/studio)
-  - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
+- [Composer SemVer Checker](https://semver.mwl.be)- Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
+- [Composer-Yaml](https://github.com/igorw/composer-yaml) - This tool converts composer.yml to composer.json.
+- [Studio](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 
 ## Scripts
 
-- [ParameterHandler](https://github.com/Incenteev/ParameterHandler)
-  - Allows you to manage your ignored parameters when running a composer install or update.
-- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)
-  - A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
+- [ParameterHandler](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
+- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
 
 ## Packagist
 
@@ -97,12 +72,12 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ### Packagist Mirrors
 
 - Europe
-  - France https://packagist.org/ - 87.98.253.214 (ovh.net)
+  - France https://packagist.org/ - 87.98.253.214 (ovh.net).
 - Asia
-  - Japan http://packagist.jp/ - 104.28.30.100 (CloudFlare, San Fransico, USA)
-  - China http://packagist.cn/ - 123.56.107.40 (Aliyun Computing; Alibaba, Hangzhou, China)
+  - Japan http://packagist.jp/ - 104.28.30.100 (CloudFlare, San Fransico, USA).
+  - China http://packagist.cn/ - 123.56.107.40 (Aliyun Computing; Alibaba, Hangzhou, China).
 - USA
-  - give http://packagist.jp/ a try
+  - Give http://packagist.jp/ a try.
 
 ## Satis
 
