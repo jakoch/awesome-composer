@@ -6,6 +6,8 @@
 
 You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
 ## Composer
 
 - [Official Website](https://getcomposer.org/)
