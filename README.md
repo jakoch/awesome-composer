@@ -4,8 +4,6 @@ A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Compose
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
-
 ## Composer
 
 - [Official Website](https://getcomposer.org/)
@@ -20,7 +18,7 @@ License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ### Support
 
-#### StackOverflow
+#### Stack Overflow
 
 - You might use the following tags: `composer-php`, `packagist`, `satis` + `php`.
 - [Ask a new question](http://stackoverflow.com/questions/ask?tags=composer-php+php)
