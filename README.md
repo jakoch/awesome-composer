@@ -86,6 +86,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Nils Adermann (naderman)](http://naderman.de/)
 - [Composer: Part 1 - What & Why](http://blog.nelm.io/2011/12/composer-part-1-what-why/)
 - [Composer: Part 2 - Impact](http://blog.nelm.io/2011/12/composer-part-2-impact/)
+- [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html)
+- [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html)
 
 ## Videos
 
