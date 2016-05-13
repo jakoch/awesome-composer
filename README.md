@@ -1,8 +1,10 @@
 ## Awesome Composer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer)
 
-A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
+[<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+> A curated awesome list of Composer related resources: Packagist, Satis, Plugins, Scripts, Tutorials.
+
+You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Composer
 
