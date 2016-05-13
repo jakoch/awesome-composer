@@ -67,6 +67,21 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [ParameterHandler](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
 - [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
 
+## Tutorials 
+
+- [A beginners guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
+- [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
+- [Easy package management with Composer](http://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
+- [PHP Dependency Management with Composer](http://www.sitepoint.com/php-dependency-management-with-composer/)
+
+## Videos
+
+- [Composer Best Practices — Jordi Boggiano @ php[tek] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
+- [Wonderful World of Composer](https://knpuniversity.com/screencast/composer) 
+- [PHP Composer Quickstart](https://www.youtube.com/watch?v=Ejr4Xqs9V2I)
+- [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
+- [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
+
 ## Packagist
 
 - [Packagist-Crawler](https://github.com/hirak/packagist-crawler) - Script to mirror Packagist metadata.
