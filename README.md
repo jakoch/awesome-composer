@@ -82,6 +82,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Blogs
 
+- [Jordi Boggiano (seldaek)](https://seld.be/)
+- [Nils Adermann (naderman)](http://naderman.de/)
 - [Composer: Part 1 - What & Why](http://blog.nelm.io/2011/12/composer-part-1-what-why/)
 - [Composer: Part 2 - Impact](http://blog.nelm.io/2011/12/composer-part-2-impact/)
 
