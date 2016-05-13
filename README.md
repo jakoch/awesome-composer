@@ -2,7 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
 
-> A curated awesome list of Composer related resources: Packagist, Satis, Plugins, Scripts, Tutorials.
+> A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials.
 
 You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
