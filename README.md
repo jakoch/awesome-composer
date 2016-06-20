@@ -117,8 +117,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Gitlab-Composer](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
 - [Satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
-- [Satis Control Panel](https://github.com/realshadow/satis-control-panel) - Is a simple web UI for managing your Satis Repository for Composer Packages.
-- [Satis Go](https://github.com/benschw/satis-go) - Satis-go is a web server for hosting and managing your Satis Repository for Composer Packages.
+- [Satis Control Panel](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
+- [Satis Go](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
 ## Proxies
 
