@@ -78,6 +78,18 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer Primer](https://daylerees.com/composer-primer/)
 - [PHP Composer Magento Tutorial by Alan Storm](http://alanstorm.com/php_composer_magento_tutorial)
 
+## Slides
+
+- Slides by Nils Aderman
+  - [Composer Update](http://www.naderman.de/slippy/src/?file=2015-02-03-Composer-Update.html)
+  - [Dependency Management with Composer PHP Reinvented](http://www.naderman.de/slippy/src/?file=2015-02-01-Dependency-Management-with-Composer-PHP-Reinvented.html)
+  - [PHP Reinvented - How Composer helped shape the new way of writing PHP](http://www.naderman.de/slippy/src/?file=2014-04-13-PHP-Reinvented.html)
+- Slides by Jordi Boggiano
+  - [Composer Best Practices](http://slides.seld.be/?file=2015-07-25+Composer+Best+Practices.html)
+  - [Introduction to Composer](http://slides.seld.be/?file=2015-06-30+Introduction+to+Composer.html)
+  - [In Depth with Composer](http://slides.seld.be/?file=2013-10-05+In-Depth+with+Composer.html)
+  - [Dependency Management with Composer](http://slides.seld.be/?file=2013-10-04+Dependency+Management+with+Composer.html)
+
 ## Books
 
 - [Creating and Using Composer Packages](https://www.packtpub.com/books/content/creating-and-using-composer-packages)
