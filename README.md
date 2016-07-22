@@ -121,7 +121,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
   - France https://packagist.org/ - 87.98.253.214 (ovh.net).
 - Asia
   - Japan http://packagist.jp/ - 104.28.30.100 (CloudFlare, San Fransico, USA).
-  - China http://packagist.cn/ - 123.56.107.40 (Aliyun Computing; Alibaba, Hangzhou, China).
+  - China http://packagist.cn/ - 123.56.107.40 (Aliyun Computing; Alibaba, Hangzhou, China). (Abandoned)
+  - China http://www.phpcomposer.com/
 - USA
   - Give http://packagist.jp/ a try.
 
