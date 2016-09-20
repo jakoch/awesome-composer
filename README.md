@@ -70,12 +70,13 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 - [ParameterHandler](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
 - [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
+- [tooly](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project composer.json. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
 
 ## Tutorials 
 
 - [A beginners guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
 - [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
-- [Easy package management with Composer](http://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
+- [Easy package management with Composer](https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/php-dependency-management-with-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
 - [PHP Composer Magento Tutorial by Alan Storm](http://alanstorm.com/php_composer_magento_tutorial)
