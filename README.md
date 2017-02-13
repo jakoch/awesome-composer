@@ -39,7 +39,6 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-AWS](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
 - [Composer-Composition](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
 - [Composer-Suggest](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns.
-- [Climb](https://github.com/deprecat/climb) - Climb is a "Composer version manager tool" inspired by `npm-check-updates`. It shows the outdates package version and indicates "upgrades" to latest versions.
 - [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
 - [Composer-Changelogs](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
 - [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
