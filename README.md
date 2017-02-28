@@ -133,16 +133,22 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - USA
   - Give http://packagist.jp/ a try.
 
-## Satis
+## Composer Repositories
+
+### Private Packagist
+- [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories
+- [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist
+
+### Satis
 
 - [Gitlab-Composer](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
 - [Satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
 - [Satis Control Panel](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
 - [Satis Go](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
-## Proxies
+### Toran Proxy
 
-- [ToranProxy](https://toranproxy.com/) - ToranProxy acts as a proxy server for Packagist and GitHub.
+- [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
 
 ---
 
