@@ -72,8 +72,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Scripts
 
-- [composer-travis-lint](https://github.com/raphaelstolt/composer-travis-lint) - A Composer script to lint a Travis CI configuration file.
-- [composer-multitest](https://github.com/raphaelstolt/composer-multitest) - A Composer script to run a `test` or `spec` Composer script against multiple PHP versions.
+- [composer-travis-lint](https://github.com/raphaelstolt/composer-travis-lint) - Allows you to lint the Travis CI configuration file (`.travis.yml`).
+- [composer-multitest](https://github.com/raphaelstolt/composer-multitest) - Enables you to run a Composer script against multiple, locally installed PHP versions, which are managed by PHPBrew or phpenv.
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 - [ParameterHandler](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
 - [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
