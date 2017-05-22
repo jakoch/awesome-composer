@@ -81,6 +81,11 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
 - [tooly](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project composer.json. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
 
+## Packagist-compatible repositories
+
+- [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
+- [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
+
 ## Tutorials 
 
 - [A beginners guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
