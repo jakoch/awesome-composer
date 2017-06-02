@@ -85,6 +85,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
+- [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 
 ## Tutorials 
 
