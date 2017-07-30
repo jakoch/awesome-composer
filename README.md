@@ -57,8 +57,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder).
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
-- [Composer Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.  
-- [PackageInfo](https://github.com/ThaDafinser/PackageInfo) - Check if a package is installed and retrieve all package informations like version, tag release date, description, ... 
+- [Composer Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.
+- [PackageInfo](https://github.com/ThaDafinser/PackageInfo) - Check if a package is installed and retrieve all package informations like version, tag release date, description, ...
 - [composer-ignore-plugin](https://github.com/lichunqiang/composer-ignore-plugin) - The composer plugin to remove useless files in vendor by yourself.
 - [composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
@@ -89,7 +89,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
 
-## Tutorials 
+## Tutorials
 
 - [A beginners guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
 - [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
@@ -126,7 +126,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Videos
 
 - [Composer Best Practices — Jordi Boggiano @ php[tek] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
-- [Wonderful World of Composer](https://knpuniversity.com/screencast/composer) 
+- [Wonderful World of Composer](https://knpuniversity.com/screencast/composer)
 - [PHP Composer Quickstart](https://www.youtube.com/watch?v=Ejr4Xqs9V2I)
 - [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 - [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
@@ -141,6 +141,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
   - France https://packagist.org/ - 87.98.253.214 (ovh.net).
 - Asia
   - Japan http://packagist.jp/ - 104.28.30.100 (CloudFlare, San Fransico, USA).
+  - China https://packagist.laravel-china.org/
   - China http://packagist.cn/ - 123.56.107.40 (Aliyun Computing; Alibaba, Hangzhou, China). (Abandoned)
   - China http://www.phpcomposer.com/
 - USA
