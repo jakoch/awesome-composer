@@ -88,6 +88,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 - [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
+- [Satis Server](https://github.com/lukaszlach/satis-server) - Private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
 
 ## Tutorials
 
