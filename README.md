@@ -151,15 +151,13 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 ### Packagist Mirrors
 
-- Europe
-  - France https://packagist.org/ - 87.98.253.214 (ovh.net).
+- North America
+  - Canada - https://packagist.org
+- South America
+  - Brazil - https://packagist.com.br
 - Asia
-  - Japan http://packagist.jp/ - 104.28.30.100 (CloudFlare, San Fransico, USA).
-  - China https://packagist.laravel-china.org/
-  - China http://packagist.cn/ - 123.56.107.40 (Aliyun Computing; Alibaba, Hangzhou, China). (Abandoned)
-  - China http://www.phpcomposer.com/
-- USA
-  - Give http://packagist.jp/ a try.
+  - Japan - https://packagist.jp
+  - China - https://packagist.phpcomposer.com
 
 ## Composer Repositories
 
