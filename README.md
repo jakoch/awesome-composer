@@ -157,7 +157,7 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
   - Brazil - https://packagist.com.br
 - Asia
   - Japan - https://packagist.jp
-  - China - https://packagist.phpcomposer.com
+  - China - [https://packagist.phpcomposer.com](https://pkg.phpcomposer.com)
 
 ## Composer Repositories
 
