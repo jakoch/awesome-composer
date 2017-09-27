@@ -152,12 +152,12 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 ### Packagist Mirrors
 
 - North America
-  - Canada - https://packagist.org
+  - Canada - [packagist.org](https://packagist.org)
 - South America
-  - Brazil - https://packagist.com.br
+  - Brazil - [packagist.com.br](https://packagist.com.br)
 - Asia
-  - Japan - https://packagist.jp
-  - China - [https://packagist.phpcomposer.com](https://pkg.phpcomposer.com)
+  - Japan - [packagist.jp](https://packagist.jp)
+  - China - [packagist.phpcomposer.com](https://pkg.phpcomposer.com)
 
 ## Composer Repositories
 
