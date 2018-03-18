@@ -66,6 +66,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [phpcodesniffer-composer-installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - Automates the configuration of custom PHP_CodeSniffer standards/sniffs via Composer
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations when composer package is installed or updated.
+- [nodejs-installer](https://github.com/thecodingmachine/nodejs-installer) - downloads and installs NodeJS and npm as composer package 
 
 ## Tools
 
