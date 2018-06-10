@@ -108,7 +108,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Books
 
-- [Creating and Using Composer Packages](https://www.packtpub.com/books/content/creating-and-using-composer-packages)
+- [Creating and Using Composer Packages](https://hub.packtpub.com/creating-and-using-composer-packages/)
 
 ## Blogs
 
