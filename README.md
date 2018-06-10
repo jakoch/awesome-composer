@@ -150,12 +150,14 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 ## Packagist
 
-- [Packagist-Crawler](https://github.com/hirak/packagist-crawler) - Script to mirror Packagist metadata.
+- [packagist mirror from Brazil](https://github.com/Webysther/packagist-mirror) - This is a maintained stable version of [packagist crawler](https://github.com/hirak/packagist-crawler).
+- [docker image](https://github.com/Webysther/packagist-mirror-docker) to create the customized packagist mirror.
+- [packagist mirror from Indonesia](https://github.com/IndraGunawan/packagist-mirror) - Another implementation to create packagist mirror.
 
 ### Packagist Mirrors
 
 - North America
-  - Canada - [packagist.org](https://packagist.org)
+  - Canada - [packagist.org](https://packagist.org) *Main mirror*
 - South America
   - Brazil - [packagist.com.br](https://packagist.com.br)
 - Asia
