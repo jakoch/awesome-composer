@@ -67,6 +67,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations when composer package is installed or updated.
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - downloads and installs NodeJS and npm as composer package 
+- [Imposter-Plugin](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 
 ## Tools
 
