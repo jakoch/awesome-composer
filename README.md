@@ -157,6 +157,8 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 ### Packagist Mirrors
 
+About metadata mirrors: https://packagist.org/mirrors
+
 - North America
   - Canada - [packagist.org](https://packagist.org) *Main mirror*
 - South America
