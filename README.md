@@ -164,7 +164,7 @@ About metadata mirrors: https://packagist.org/mirrors
 - South America
   - Brazil - [packagist.com.br](https://packagist.com.br)
 - Asia
-  - China - [packagist.phpcomposer.com](https://pkg.phpcomposer.com)
+  - China - [php.cnpkg.org](https://php.cnpkg.org)
   - Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - Japan - [packagist.jp](https://packagist.jp)
 
