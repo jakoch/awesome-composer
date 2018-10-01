@@ -125,7 +125,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Managing dependencies is more than running "composer update" -  Nils Adermann @ phpsrb17](https://www.youtube.com/watch?v=QL6w8H2eHQE)
 - [Composer Best Practices — Jordi Boggiano @ php[tek] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
-- [Wonderful World of Composer](http://symfonycasts.com/screencast/composer)
+- [Wonderful World of Composer](https://symfonycasts.com/screencast/composer)
 - [PHP Composer Quickstart](https://www.youtube.com/watch?v=Ejr4Xqs9V2I)
 - [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 - [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
