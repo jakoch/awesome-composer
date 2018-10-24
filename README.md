@@ -94,6 +94,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
 - [Satis Server](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
+- [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with PHP/Composer support (and many others).
 
 ## GUI 
 
