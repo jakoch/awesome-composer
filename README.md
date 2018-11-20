@@ -187,6 +187,10 @@ About metadata mirrors: https://packagist.org/mirrors
 
 - [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
 
+### Release Belt
+
+- [Release Belt](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
+
 ---
 
 ## License
