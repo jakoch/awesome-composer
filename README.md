@@ -67,7 +67,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - Automates the configuration of custom PHP_CodeSniffer standards/sniffs via Composer
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations when composer package is installed or updated.
-- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - downloads and installs NodeJS and npm as composer package 
+- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - Downloads and installs NodeJS and npm as composer package. 
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 
 ## Tools
@@ -77,7 +77,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Studio](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
-- [composer-normalize](https://github.com/localheinz/composer-normalize) - Provides a composer plugin for normalizing `composer.json`.
+- [composer-normalize](https://github.com/localheinz/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
 
 ## Scripts
 
