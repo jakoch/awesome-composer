@@ -69,7 +69,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations when composer package is installed or updated.
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - Downloads and installs NodeJS and npm as composer package. 
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
-- [Composer Preload](https://github.com/Ayesh/Composer-Preload) - Plugin to generate a `vendor/preload.php` file to warm up opcache
+- [Composer Preload](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 
 ## Tools
 
