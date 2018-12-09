@@ -176,8 +176,9 @@ About metadata mirrors: https://packagist.org/mirrors
 ## Composer Repositories
 
 ### Private Packagist
-- [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories
-- [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist
+- [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
+- [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
+- [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 
 ### Satis
 
