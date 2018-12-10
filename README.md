@@ -168,8 +168,10 @@ About metadata mirrors: https://packagist.org/mirrors
   - Canada - [packagist.org](https://packagist.org) *Main mirror*
 - South America
   - Brazil - [packagist.com.br](https://packagist.com.br)
+- Africa
+  - South Africa - [packagist.co.za](packagist.co.za)
 - Asia
-  - China - [php.cnpkg.org](https://php.cnpkg.org)
+  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/)
   - Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - Japan - [packagist.jp](https://packagist.jp)
 
