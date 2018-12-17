@@ -145,15 +145,15 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 more than running
 "composer update"](http://naderman.de/slippy/slides/2017-06-30-DPC-Dependency-Management-is-more-than-composer-update.pdf)
   - [Composer
-Best Practices](http://www.naderman.de/slippy/slides/2017-07-13-T3DD17-Composer-Best-Practices.pdf)
+Best Practices @ T3DD17](http://www.naderman.de/slippy/slides/2017-07-13-T3DD17-Composer-Best-Practices.pdf)
   - [Gain Control over your
 Dependencies with
 Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-control-over-your-dependencies-with-private-packagist.pdf)
   - [Composer.lock demystified](http://www.naderman.de/slippy/slides/2018-01-26-composer-lock-demystified.pdf)
   - [Compoer In-Depth @ Contao Konferenz 2018](http://www.naderman.de/slippy/slides/2018-06-08-Contao-Konferenz-2018-Composer-In-Depth.pdf)
-  - [Composer Best Practices](http://www.naderman.de/slippy/slides/2018-06-27-Composer-Best-Practices-2018.pdf)
+  - [Composer Best Practices 2018](http://www.naderman.de/slippy/slides/2018-06-27-Composer-Best-Practices-2018.pdf)
   - [Developing and Deploying Magento with Composer Best Practices](http://www.naderman.de/slippy/slides/2018-06-18-Developing-and-Deploying-Magento-with-Composer-Best-Practices.pdf)
-  - [Composer Platform Config (check-platform-reqs)](http://www.naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf)
+  - [Composer Platform Config (check-platform-reqs) @ SymfonCon 2018](http://www.naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf)
 - Slides by Jordi Boggiano
   - [Dependency Management with Composer](http://slides.seld.be/?file=2013-10-04+Dependency+Management+with+Composer.html)
   - [In Depth with Composer](http://slides.seld.be/?file=2013-10-05+In-Depth+with+Composer.html)
