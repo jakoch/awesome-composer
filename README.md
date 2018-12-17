@@ -85,6 +85,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 - [Composer-Normalize](https://github.com/localheinz/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
+- [Composer-Service](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
 
 ## Scripts
 
