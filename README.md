@@ -136,7 +136,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Slides
 
-- Slides by Nils Aderman
+- Slides by Nils Adermann
   - [PHP Reinvented - How Composer helped shape the new way of writing PHP](http://www.naderman.de/slippy/src/?file=2014-04-13-PHP-Reinvented.html)
   - [Composer Update](http://www.naderman.de/slippy/src/?file=2015-02-03-Composer-Update.html)
   - [Dependency Management with Composer PHP Reinvented](http://www.naderman.de/slippy/src/?file=2015-02-01-Dependency-Management-with-Composer-PHP-Reinvented.html)
