@@ -137,7 +137,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Slides
 
-- Slides by Nils Adermann
+- Slides by Nils Adermann 
+  - Source: http://www.naderman.de/slippy/slides/
   - [PHP Reinvented - How Composer helped shape the new way of writing PHP](http://www.naderman.de/slippy/src/?file=2014-04-13-PHP-Reinvented.html)
   - [Composer Update](http://www.naderman.de/slippy/src/?file=2015-02-03-Composer-Update.html)
   - [Dependency Management with Composer PHP Reinvented](http://www.naderman.de/slippy/src/?file=2015-02-01-Dependency-Management-with-Composer-PHP-Reinvented.html)
@@ -155,11 +156,13 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
   - [Developing and Deploying Magento with Composer Best Practices](http://www.naderman.de/slippy/slides/2018-06-18-Developing-and-Deploying-Magento-with-Composer-Best-Practices.pdf)
   - [Composer Platform Config (check-platform-reqs) @ SymfonCon 2018](http://www.naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf)
 - Slides by Jordi Boggiano
-  - [Dependency Management with Composer](http://slides.seld.be/?file=2013-10-04+Dependency+Management+with+Composer.html)
-  - [In Depth with Composer](http://slides.seld.be/?file=2013-10-05+In-Depth+with+Composer.html)
-  - [Composer Best Practices](http://slides.seld.be/?file=2015-07-25+Composer+Best+Practices.html)
-  - [Introduction to Composer](http://slides.seld.be/?file=2015-06-30+Introduction+to+Composer.html)
-
+  - Source: http://slides.seld.be/
+  - [Dependency Management with Composer (2013)](http://slides.seld.be/?file=2013-10-04+Dependency+Management+with+Composer.html)
+  - [In Depth with Composer (2013)](http://slides.seld.be/?file=2013-10-05+In-Depth+with+Composer.html)
+  - [Composer Best Practices (2015)](http://slides.seld.be/?file=2015-07-25+Composer+Best+Practices.html)
+  - [Introduction to Composer (2015)](http://slides.seld.be/?file=2015-06-30+Introduction+to+Composer.html)
+  - [Composer in 2016](http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html)
+  
 ## Packagist
 
 - [Packagist Mirror from Brazil](https://github.com/Webysther/packagist-mirror) - This is a maintained stable version of [packagist crawler](https://github.com/hirak/packagist-crawler).
