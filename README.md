@@ -127,6 +127,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Videos
 
+- [Composer Best Practices 2018 - Nils Adermann @ phpday 2018](https://www.youtube.com/watch?v=EpvihKaQyLs)
 - [Managing dependencies is more than running "composer update" -  Nils Adermann @ phpsrb17](https://www.youtube.com/watch?v=QL6w8H2eHQE)
 - [Composer Best Practices — Jordi Boggiano @ php[tek] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
 - [Wonderful World of Composer](https://symfonycasts.com/screencast/composer)
