@@ -73,6 +73,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 - [PHP Inc](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
+- [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
 
 ## Tools
 
