@@ -86,6 +86,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 - [Composer-Normalize](https://github.com/localheinz/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
 - [Composer-Service](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
+- [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
 
 ## Scripts
 
