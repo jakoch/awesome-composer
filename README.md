@@ -103,6 +103,10 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Composercat](https://www.getcomposercat.com/) - Composercat is a comprehensive GUI for the Composer package manager, designed both for professionals and people taking their first steps with Composer.
 
+## Services
+
+- [Dependabot](https://dependabot.com/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
+
 ---------------------------------------------------------
 
 ## Tutorials
