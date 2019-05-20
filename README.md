@@ -88,6 +88,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Normalize](https://github.com/localheinz/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
 - [Composer-Service](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
 - [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
+- [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 
 ## Scripts
 
