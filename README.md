@@ -30,7 +30,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### IRC
 
-- IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/?channels=composer) for users and [#composer-dev](https://webchat.freenode.net/?channels=composer-dev) for development.
+- IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/#composer) for users and [#composer-dev](https://webchat.freenode.net/#composer-dev) for development.
 
 ---------------------------------------------------------
 
