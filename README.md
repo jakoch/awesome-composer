@@ -177,7 +177,8 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 ## Packagist
 
-- [Packagist Mirror from Brazil](https://github.com/Webysther/packagist-mirror) - This is a maintained stable version of [packagist crawler](https://github.com/hirak/packagist-crawler).
+- [Packagist Mirror](https://github.com/Webysther/packagist-mirror) - This script helps to setup a packagist mirror.
+It's a maintained and stable version of [Packagist Crawler](https://github.com/hirak/packagist-crawler).
 - [Docker Image](https://github.com/Webysther/packagist-mirror-docker) - This Docker image helps to create a customized packagist mirror.
 - [Packagist Mirror from Indonesia](https://github.com/IndraGunawan/packagist-mirror) - Another implementation for creating a packagist mirror.
 
@@ -192,7 +193,8 @@ About metadata mirrors: https://packagist.org/mirrors
 - Africa
   - South Africa - [packagist.co.za](packagist.co.za)
 - Asia
-  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/)
+  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/), [https://mirrors.aliyun.com/composer/](https://mirrors.aliyun.com/composer/)
+  - India - [https://packagist.in/](https://packagist.in/)
   - Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - Japan - [packagist.jp](https://packagist.jp)
 
