@@ -177,8 +177,11 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 ## Packagist
 
-- [Packagist Mirror](https://github.com/Webysther/packagist-mirror) - This script helps to setup a packagist mirror.
-It's a maintained and stable version of [Packagist Crawler](https://github.com/hirak/packagist-crawler).
+[Packagist](https://packagist.org) is the PHP Package Repository.
+
+### Setup a Packagist Mirror 
+
+- [Packagist Mirror](https://github.com/Webysther/packagist-mirror) - This script helps to setup a packagist mirror. It is the maintained and stable version of [Packagist Crawler](https://github.com/hirak/packagist-crawler).
 - [Docker Image](https://github.com/Webysther/packagist-mirror-docker) - This Docker image helps to create a customized packagist mirror.
 - [Packagist Mirror from Indonesia](https://github.com/IndraGunawan/packagist-mirror) - Another implementation for creating a packagist mirror.
 
