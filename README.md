@@ -79,6 +79,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) - Prevents more than one install or update operation at a time.
 - [Composer-Downloads-Plugin](https://github.com/civicrm/composer-downloads-plugin) - Lightweight mechanism to download external resources (ZIP/TAR files) with only a `url` and `path`.
+- [Private-Composer-Installer](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
 
 ## Tools
 
