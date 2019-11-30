@@ -4,6 +4,6 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --request-delay 1 --white-list stackoverflow.com,igor.io,toranproxy.com,laravel-china.org,drupal.org,phpindonesia.id,packagist.in
+  - awesome_bot README.md --allow-dupe --white-list stackoverflow.com,youtube.com,igor.io,toranproxy.com,laravel-china.org,drupal.org,phpindonesia.id,packagist.in
 notifications:
   email: false
