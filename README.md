@@ -17,7 +17,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Documentation](https://getcomposer.org/doc/)
 - [API Documentation](https://getcomposer.org/apidoc/master/index.html)
 - [Find Packages on Packagist](https://packagist.org/)
-- [CheatSheet](http://composer.json.jolicode.com/) - Overview of CLI commands and `composer.json` schema.
+- [CheatSheet](https://composer.json.jolicode.com/) - Overview of CLI commands and `composer.json` schema.
 - [Composer Installers](https://github.com/composer/installers) - Composer installers for multiple frameworks.
 
 ### Support
@@ -50,7 +50,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin) - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.
 - [Composer-Patches](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
 - [Composer-Patches](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project.
-- [Composer-Patchset](https://github.com/creativestyle/composer-plugin-patchset) - Automatically fetch, update and apply patches to any composer package with a twist - store the patchset as a composer package itself.
+- [Composer-Patchset](https://github.com/mageops/php-composer-plugin-patchset) - Automatically fetch, update and apply patches to any composer package with a twist - store the patchset as a composer package itself.
 - [Composer-Plugin-QA](https://github.com/Webysther/composer-plugin-qa) - Comprehensive Plugin for composer to execute PHP Quality assurance Tools.
 - [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
@@ -90,7 +90,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Studio](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
-- [Composer-Normalize](https://github.com/localheinz/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
+- [Composer-Normalize](https://github.com/ergebnis/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
 - [Composer-Service](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
 - [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
 - [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
