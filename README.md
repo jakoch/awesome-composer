@@ -217,6 +217,7 @@ About metadata mirrors: https://packagist.org/mirrors
 - [Satis Server](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
 - [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with PHP/Composer support (and many others).
 - [Release Belt](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
+- [Packeton](https://github.com/vtsykun/packeton) - Private self-hosted Composer repository for vendors. Fork of packagist with adding support for authorization, customer users, groups, webhooks.
 
 ### Satis
 
