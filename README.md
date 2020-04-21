@@ -104,8 +104,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Travis-Lint](https://github.com/raphaelstolt/composer-travis-lint) - Allows you to lint the Travis CI configuration file (`.travis.yml`).
 - [Composer-Multitest](https://github.com/raphaelstolt/composer-multitest) - Enables you to run a Composer script against multiple, locally installed PHP versions, which are managed by PHPBrew or phpenv.
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
-- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
-- [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup)- A script which removes whitelisted unnecessary files (like tests/docs etc.) from the vendor directory
+- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer) - A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
+- [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup) - A script which removes whitelisted unnecessary files (like tests/docs etc.) from the vendor directory.
+- [Composer Substitution Plugin](https://github.com/villfa/composer-substitution-plugin) - A Composer plugin replacing placeholders in the `scripts` section by dynamic values.
 
 ## Services
 
