@@ -204,6 +204,9 @@ About metadata mirrors: https://packagist.org/mirrors
 
 ## Composer Repositories
 
+### Private repositories
+- [tug.dev](https://tug.dev/) & [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or Gitlab services.
+
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
 - [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
