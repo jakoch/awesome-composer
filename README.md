@@ -11,11 +11,11 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Composer
 
 - [Official Website](https://getcomposer.org/)
-- [Issues](https://github.com/composer/composer/issues)
 - [Github](https://github.com/composer/composer)
-- [Getting Started Guide and Installation Instructions](https://getcomposer.org/doc/00-intro.md)
+- [Issues](https://github.com/composer/composer/issues)
+- [Source](https://github.com/composer/composer/tree/HEAD/src/Composer)
 - [Documentation](https://getcomposer.org/doc/)
-- [API Documentation](https://getcomposer.org/apidoc/master/index.html)
+- [Getting Started Guide and Installation Instructions](https://getcomposer.org/doc/00-intro.md)
 - [Find Packages on Packagist](https://packagist.org/)
 - [CheatSheet](https://composer.json.jolicode.com/) - Overview of CLI commands and `composer.json` schema.
 - [Composer Installers](https://github.com/composer/installers) - Composer installers for multiple frameworks.
