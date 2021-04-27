@@ -99,6 +99,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
 - [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 - [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
+- [Composer Semver Range Checker](https://gitlab.com/MattyRad/composer.guru) - A tool to help check the satisfiable ranges of a composer constraint.
 
 ## Scripts
 
@@ -216,7 +217,7 @@ About metadata mirrors: https://packagist.org/mirrors
 ### Repman
 
 - [repman.io](https://repman.io) & [repman-io/repman](https://github.com/repman-io/repman) - A Private PHP Package Repository Manager & Packagist Proxy.
-- [repman-io/composer-plugin](https://github.com/repman-io/composer-plugin) - This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the `composer.lock` file). 
+- [repman-io/composer-plugin](https://github.com/repman-io/composer-plugin) - This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the `composer.lock` file).
 
 ## Packagist-compatible repositories
 
