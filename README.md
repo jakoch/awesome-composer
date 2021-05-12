@@ -37,6 +37,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Plugins
 
 - [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md) - This offical documentation is good starting point, when writing a Composer plugin.
+- [Composer-Grouper](https://github.com/arvodia/grouper) - Composer package and tasks manager by group.
 - [Composer-Asset-Plugin](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
 - [Composer-AWS](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
 - [Composer-Composition](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
