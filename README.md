@@ -116,6 +116,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Services
 
+- [Packanalyst](https://packanalyst.com/) - Packanalyst is a service that lets you browse in any PHP class / interface / trait defined in Packagist.
 - [Dependabot](https://dependabot.com/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
 ---------------------------------------------------------
