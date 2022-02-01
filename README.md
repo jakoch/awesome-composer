@@ -137,9 +137,11 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Nils Adermann (naderman)](https://naderman.de/)
 - [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html)
 - [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html)
+- [The long journey of making PHP’s Composer memory-efficient and fast (toflar)](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
 
 ## Videos
 
+- [Composer Best Practices 2018 - Nils Adermann @ scotphp18](https://www.youtube.com/watch?v=eQkFjMfyqFY)
 - [Composer Best Practices 2018 - Nils Adermann @ phpday 2018](https://www.youtube.com/watch?v=EpvihKaQyLs)
 - [Managing dependencies is more than running "composer update" -  Nils Adermann @ phpsrb17](https://www.youtube.com/watch?v=QL6w8H2eHQE)
 - [Composer Best Practices — Jordi Boggiano @ php[tek] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
@@ -147,6 +149,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [PHP Composer Quickstart](https://www.youtube.com/watch?v=Ejr4Xqs9V2I)
 - [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 - [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
+- [Composer 2 - Jordi Boggiano @ Symfony UK usergroup 2020](https://www.youtube.com/watch?v=BAgwWhRo82w)
+- [Lessons learned building the Composer internals - Jordi Boggiano @ CODEiD Odessa PHP Conference 2017](https://www.youtube.com/watch?v=pjvbn6TBZqM) 
 
 ## Slides
 
@@ -175,6 +179,7 @@ Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-cont
   - [Composer Best Practices (2015)](http://slides.seld.be/?file=2015-07-25+Composer+Best+Practices.html)
   - [Introduction to Composer (2015)](http://slides.seld.be/?file=2015-06-30+Introduction+to+Composer.html)
   - [Composer in 2016](http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html)
+  - [Lessons Learned Building the Composer Internals (2018)](http://slides.seld.be/?file=2018-04-20+Lessons+Learned+Building+the+Composer+Internals.html)
 
 ---------------------------------------------------------
 
