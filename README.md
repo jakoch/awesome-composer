@@ -88,6 +88,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [CycloneDX-PHP-Composer](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 - [Composer-Compile-Plugin](https://github.com/civicrm/composer-compile-plugin) - Allow PHP libraries to define simple, freeform compilation tasks. Support post-install hooks in any package.
 - [Composer-Link](https://github.com/SanderSander/composer-link) - Adds the ability to link local packages for development.
+- [Composer-REPL](https://github.com/ramsey/composer-repl) - The plugin provides the `composer repl` command, which gives you a PHP language shell (read-eval-print loop).
 
 ## Tools
 
