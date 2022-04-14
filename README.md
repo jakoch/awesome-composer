@@ -212,6 +212,9 @@ About metadata mirrors: https://packagist.org/mirrors
 
 ## Composer Repositories
 
+### Registry Manager
+- https://github.com/slince/composer-registry-manager - The plugin helps you to switch between different composer repositories.
+
 ### Private repositories
 - [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or Gitlab services.
 
