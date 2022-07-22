@@ -90,6 +90,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Link](https://github.com/SanderSander/composer-link) - Adds the ability to link local packages for development.
 - [Composer-REPL](https://github.com/ramsey/composer-repl) - The plugin provides the `composer repl` command, which gives you a PHP language shell (read-eval-print loop).
 - [Composer-Diff](https://github.com/IonBazan/composer-diff) - Compares `composer.lock` changes and generates a Markdown report for usage in a pull request description.
+- [Composer-Velocita](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
 
 ## Tools
 
