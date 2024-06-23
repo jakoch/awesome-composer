@@ -1,4 +1,4 @@
-## Awesome Composer [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build on Windows](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml/badge.svg?branch=main)](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
+# Awesome Composer [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build on Windows](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml/badge.svg?branch=main)](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
 
@@ -11,7 +11,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Composer
 
 - [Official Website](https://getcomposer.org/)
-- [Github](https://github.com/composer/composer)
+- [GitHub](https://github.com/composer/composer)
 - [Issues](https://github.com/composer/composer/issues)
 - [Source](https://github.com/composer/composer/tree/HEAD/src/Composer)
 - [Documentation](https://getcomposer.org/doc/)
@@ -76,8 +76,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [PHPCodeSniffer-Composer-Installer](https://github.com/PHPCSStandards/composer-installer) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
-- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - Installer for Node.JS and npm.
-- [Node-Composer](https://github.com/mariusbuescher/node-composer) - Installer for Node.JS, npm and yarn.
+- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - Installer for Node.js and npm.
+- [Node-Composer](https://github.com/mariusbuescher/node-composer) - Installer for Node.js, npm and yarn.
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 - [PHP Inc](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
@@ -98,7 +98,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer SemVer Checker](https://semver.madewithlove.com/) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
 - [Composer-Yaml](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
 - [Studio](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
-- [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github.
+- [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on GitHub.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 - [Composer-Unused](https://github.com/composer-unused/composer-unused) - A CLI tool, which scans your code and shows unused Composer dependencies.
 - [Composer-Normalize](https://github.com/ergebnis/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
@@ -220,7 +220,7 @@ About metadata mirrors: https://packagist.org/mirrors
 - https://github.com/slince/composer-registry-manager - The plugin helps you to switch between different composer repositories.
 
 ### Private repositories
-- [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or GitLab services.
+- [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.
 
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
@@ -256,7 +256,7 @@ About metadata mirrors: https://packagist.org/mirrors
 
 ---
 
-## License
+## Copyright
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
