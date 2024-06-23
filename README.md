@@ -1,4 +1,4 @@
-## Awesome Composer [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
+## Awesome Composer [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build on Windows](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml/badge.svg?branch=main)](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
 
@@ -25,14 +25,14 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Stack Overflow
 
 - You might use the following tags: `composer-php`, `packagist`, `satis` + `php`.
-- [Ask a new question](http://stackoverflow.com/questions/ask?tags=composer-php+php)
-- [Find questions tagged `composer-php`](http://stackoverflow.com/questions/tagged/composer-php)
+- [Ask a new question](https://stackoverflow.com/questions/ask?tags=composer-php+php)
+- [Find questions tagged `composer-php`](https://stackoverflow.com/questions/tagged/composer-php)
 
 #### IRC
 
 - IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/#composer) for users and [#composer-dev](https://webchat.freenode.net/#composer-dev) for development.
 
----------------------------------------------------------
+---
 
 ## Plugins
 
@@ -63,7 +63,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin uses `phpext_curl` for downloading packages.
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
-- [Composer-Dependency-Analyzer](https://github.com/shipmonk-rnd/composer-dependency-analyser) - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.  
+- [Composer-Dependency-Analyzer](https://github.com/shipmonk-rnd/composer-dependency-analyser) - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [Graph-Composer](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
@@ -73,11 +73,11 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 - [Narrowspark-Automatic](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
-- [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
+- [PHPCodeSniffer-Composer-Installer](https://github.com/PHPCSStandards/composer-installer) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
-- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - Installer for NodeJS and npm.
-- [Node-Composer](https://github.com/mariusbuescher/node-composer) - Installer for NodeJS, npm and yarn.
+- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - Installer for Node.JS and npm.
+- [Node-Composer](https://github.com/mariusbuescher/node-composer) - Installer for Node.JS, npm and yarn.
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 - [PHP Inc](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
@@ -95,7 +95,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tools
 
-- [Composer SemVer Checker](https://semver.mwl.be) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
+- [Composer SemVer Checker](https://semver.madewithlove.com/) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
 - [Composer-Yaml](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
 - [Studio](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github.
@@ -122,19 +122,18 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Services
 
-- [Packanalyst](https://packanalyst.com/) - Packanalyst is a service that lets you browse in any PHP class / interface / trait defined in Packagist.
-- [Dependabot](https://dependabot.com/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
+- [Dependabot](https://github.com/features/security/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
----------------------------------------------------------
+---
 
 ## Tutorials
 
-- [A beginners guide to Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer)
+- [A beginners guide to Composer](https://www.digitalocean.com/community/tutorials/a-beginners-guide-to-composer)
 - [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
-- [Easy package management with Composer](https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
+- [Easy package management with Composer](https://code.tutsplus.com/easy-package-management-with-composer--net-25530t)
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
-- [PHP Composer Magento Tutorial by Alan Storm](https://alanstorm.com/php_composer_magento_tutorial/ )
+- [PHP Composer Magento Tutorial by Alan Storm](https://alanastorm.com/php_composer_magento_tutorial/)
 - [Creating and Using Composer Packages](https://hub.packtpub.com/creating-and-using-composer-packages/)
 
 ## Blogs
@@ -143,7 +142,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Nils Adermann (naderman)](https://naderman.de/)
 - [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html)
 - [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html)
-- [The long journey of making PHP’s Composer memory-efficient and fast (toflar)](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
+- [The long journey of making PHPs Composer memory-efficient and fast (toflar)](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
 
 ## Videos
 
@@ -156,7 +155,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 - [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
 - [Composer 2 - Jordi Boggiano @ Symfony UK usergroup 2020](https://www.youtube.com/watch?v=BAgwWhRo82w)
-- [Lessons learned building the Composer internals - Jordi Boggiano @ CODEiD Odessa PHP Conference 2017](https://www.youtube.com/watch?v=pjvbn6TBZqM) 
+- [Lessons learned building the Composer internals - Jordi Boggiano @ CODEiD Odessa PHP Conference 2017](https://www.youtube.com/watch?v=pjvbn6TBZqM)
 
 ## Slides
 
@@ -187,7 +186,7 @@ Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-cont
   - [Composer in 2016](http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html)
   - [Lessons Learned Building the Composer Internals (2018)](http://slides.seld.be/?file=2018-04-20+Lessons+Learned+Building+the+Composer+Internals.html)
 
----------------------------------------------------------
+---
 
 ## Packagist
 
@@ -208,12 +207,12 @@ About metadata mirrors: https://packagist.org/mirrors
 - South America
   - Brazil - [packagist.com.br](https://packagist.com.br)
 - Africa
-  - South Africa - [packagist.co.za](packagist.co.za)
+  - South Africa - [packagist.co.za](https://packagist.co.za)
 - Asia
-  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/), [https://mirrors.aliyun.com/composer/](https://mirrors.aliyun.com/composer/)
+  - China - [https://pkg.xyz/](https://pkg.xyz/), [https://developer.aliyun.com/composer](https://developer.aliyun.com/composer)
   - India - [https://packagist.in/](https://packagist.in/)
-  - Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - Japan - [packagist.jp](https://packagist.jp)
+  - Korea - [https://packagist.kr/](https://packagist.kr/)
 
 ## Composer Repositories
 
@@ -221,7 +220,7 @@ About metadata mirrors: https://packagist.org/mirrors
 - https://github.com/slince/composer-registry-manager - The plugin helps you to switch between different composer repositories.
 
 ### Private repositories
-- [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or Gitlab services.
+- [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or GitLab services.
 
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
@@ -246,8 +245,8 @@ About metadata mirrors: https://packagist.org/mirrors
 
 ### Satis
 
-- [Gitlab-Composer](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
-- [Satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
+- [GitLab-Composer](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for GitLab repositories.
+- [Satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI.
 - [Satis Control Panel](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
 - [Satis Go](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
@@ -255,7 +254,7 @@ About metadata mirrors: https://packagist.org/mirrors
 
 - [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
 
----------------------------------------------------------
+---
 
 ## License
 
