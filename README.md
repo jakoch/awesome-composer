@@ -63,6 +63,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin uses `phpext_curl` for downloading packages.
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
+- [Composer-Dependency-Analyzer](https://github.com/shipmonk-rnd/composer-dependency-analyser) - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.  
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [Graph-Composer](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
