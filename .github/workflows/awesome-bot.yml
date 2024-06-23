@@ -1,0 +1,78 @@
+name: "Awesome BOT"
+
+on:
+  pull_request:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: README.md
+
+# improve CI concurrency by automatically cancelling outdated jobs
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+
+# ---------------------------------------------------------------------------------------
+
+  awesome-bot:
+
+# ---------------------------------------------------------------------------------------
+
+    strategy:
+      fail-fast: false
+
+      runs-on: ubuntu-24.04
+
+    steps:
+      - name: 🤘 Checkout Code
+        uses: actions/checkout@v4 # https://github.com/actions/checkout
+        with:
+          fetch-depth: 0
+
+      - name: 🔽 Setup Rube
+        uses: ruby/setup-ruby@v1 # https://github.com/ruby/setup-ruby
+        with:
+          ruby-version: 3.3
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      - name: 🔽 Setup awesome-bot
+        run: gem install awesome_bot
+
+      - name: 📑 ✔ Lint README.md
+        run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list "stackoverflow.com,seld.be,daylerees.com"
+
+      - uses: 🔼 actions/upload-artifact@v1
+        if: failure()
+        with:
+          name: ab-results
+          path: ab-results-README.md-filtered.json
+
+# ---------------------------------------------------------------------------------------
+
+  awesome-lint:
+
+# ---------------------------------------------------------------------------------------
+
+    strategy:
+    fail-fast: false
+
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: 🤘 Checkout Code
+        uses: actions/checkout@v4 # https://github.com/actions/checkout
+        with:
+          fetch-depth: 0
+
+      - name: 🔽 Setup Node
+        uses: actions/setup-node@v4 # https://github.com/actions/setup-node
+        with:
+          node-version: 18
+
+      - name: 🔽 Setup awesome-lint
+        run: npm install --global awesome-lint
+
+      - name: 📑 ✔ Lint README.md
+        run: awesome-lint README.md
