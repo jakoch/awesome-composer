@@ -7,7 +7,7 @@
 
 You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/jakoch/awesome-composer/blob/main/.github/CONTRIBUTING.md) before contributing.*
 
 ## Composer
 
