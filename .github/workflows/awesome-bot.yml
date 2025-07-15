@@ -41,7 +41,7 @@ jobs:
         run: gem install awesome_bot
 
       - name: 📑 ✔ Lint README.md
-        run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list "stackoverflow.com,seld.be,daylerees.com,drupal.org,packagist.kr"
+        run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list "stackoverflow.com,seld.be,daylerees.com,drupal.org,packagist.kr,cloudsmith.com"
 
       - name: 🔼 Upload Artifact
         uses: actions/upload-artifact@v4 # https://github.com/actions/upload-artifact
