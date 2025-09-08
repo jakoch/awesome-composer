@@ -68,7 +68,7 @@ jobs:
           fetch-depth: 0
 
       - name: 🔽 Setup Node
-        uses: actions/setup-node@v4 # https://github.com/actions/setup-node
+        uses: actions/setup-node@v5 # https://github.com/actions/setup-node
         with:
           node-version: 18
 
