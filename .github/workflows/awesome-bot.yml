@@ -44,7 +44,7 @@ jobs:
         run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list "stackoverflow.com,seld.be,daylerees.com,drupal.org,packagist.kr,cloudsmith.com,sitepoint.com"
 
       - name: 🔼 Upload Artifact
-        uses: actions/upload-artifact@v4 # https://github.com/actions/upload-artifact
+        uses: actions/upload-artifact@v5 # https://github.com/actions/upload-artifact
         if: failure()
         with:
           name: ab-results
