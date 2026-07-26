@@ -132,7 +132,6 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Tutorials
 
 - [A short & simple Composer tutorial](https://dev-metal.com/composer-tutorial/)
-- [Easy package management with Composer](https://code.tutsplus.com/easy-package-management-with-composer--net-25530t)
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
 - [PHP Composer Magento Tutorial by Alan Storm](https://alanastorm.com/php_composer_magento_tutorial/)
