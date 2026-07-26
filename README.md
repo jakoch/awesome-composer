@@ -131,8 +131,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tutorials
 
-- [A beginners guide to Composer](https://www.digitalocean.com/community/tutorials/a-beginners-guide-to-composer)
-- [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
+- [A short & simple Composer tutorial](https://dev-metal.com/composer-tutorial/)
 - [Easy package management with Composer](https://code.tutsplus.com/easy-package-management-with-composer--net-25530t)
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
@@ -208,11 +207,8 @@ About metadata mirrors: https://packagist.org/mirrors
 - Global, CloudFlare - [packagist.pages.dev](https://packagist.pages.dev/)
 - North America
   - Canada - [packagist.org](https://packagist.org) *Main mirror*
-- Africa
-  - South Africa - [packagist.co.za](https://packagist.co.za)
 - Asia
   - China - [https://pkg.xyz/](https://pkg.xyz/), [https://developer.aliyun.com/composer](https://developer.aliyun.com/composer)
-  - India - [https://packagist.in/](https://packagist.in/)
   - Japan - [packagist.jp](https://packagist.jp)
   - Korea - [https://packagist.kr/](https://packagist.kr/)
 
