@@ -95,6 +95,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Velocita](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
 - [Composer Translation Validator](https://github.com/move-elevator/composer-translation-validator) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
 - [Composer-Fanfare](https://github.com/wazum/composer-fanfare) - Displays a colored ASCII art banner after install/update, with color presets, gradients and animations.
+- [WP Org Closed Plugin](https://github.com/typisttech/wp-org-closed-plugin) - Marks packages as abandoned if closed on WordPress.org.
 
 ## Tools
 
@@ -110,6 +111,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 - [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
 - [Composer Semver Range Checker](https://gitlab.com/MattyRad/composer.guru) - A tool to help check the satisfiable ranges of a composer constraint.
+- [Composer Audit to SARIF Action](https://github.com/typisttech/composer-audit-to-sarif-action) - Convert Composer audit reports to SARIF files on GitHub Actions.
 
 ## Scripts
 
@@ -232,6 +234,7 @@ About metadata mirrors: https://packagist.org/mirrors
 ## Packagist-compatible repositories
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
+- [WordPress Packages](https://wp-packages.org/) - Composer repository for WordPress.org plugins and themes.
 - [WP Sec Adv](https://github.com/typisttech/wpsecadv) - Composer repository for WordPress security advisories.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 - [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
