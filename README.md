@@ -110,6 +110,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 - [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
 - [Composer Semver Range Checker](https://gitlab.com/MattyRad/composer.guru) - A tool to help check the satisfiable ranges of a composer constraint.
+- [Composer Audit to SARIF Action](https://github.com/typisttech/composer-audit-to-sarif-action) - Convert Composer audit reports to SARIF files on GitHub Actions.
 
 ## Scripts
 
