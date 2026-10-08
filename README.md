@@ -220,6 +220,7 @@ About metadata mirrors: https://packagist.org/mirrors
 
 ### Private repositories
 - [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.
+- [Private Packages](https://private-packages.com) - Managed Composer repository for premium WordPress plugins. Stores license keys and automatically fetches WP plugin updates. Additionally tracks public and private GitHub repositories and exposes releases as Composer packages.
 
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
