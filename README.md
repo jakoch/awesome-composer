@@ -232,6 +232,7 @@ About metadata mirrors: https://packagist.org/mirrors
 ## Packagist-compatible repositories
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
+- [WP Sec Adv](https://github.com/typisttech/wpsecadv) - Composer repository for WordPress security advisories.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 - [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
