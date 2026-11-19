@@ -244,6 +244,7 @@ About metadata mirrors: https://packagist.org/mirrors
 - [Release Belt](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
 - [Packeton](https://github.com/vtsykun/packeton) - Private self-hosted Composer repository for vendors. Fork of packagist with adding support for authorization, customer users, groups, webhooks.
 - [RepoFlow](https://www.repoflow.io) - Simple and fast platform for hosting private Composer registries. Also supports Docker, npm, PyPI, Maven, and RubyGems. Offers free options for both cloud and self-hosted setups.
+- [Buddy](https://buddy.works/blog/composer-private-packages) - Composer registry for private PHP packages in the Buddy.Works cloud. Packages are published from a pipeline with the Composer Publish action or with `bdy artifact composer publish`, and installed with `composer install` and an access token.
 
 ### Satis
 
